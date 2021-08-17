@@ -1,21 +1,14 @@
-# EE706_assignment2_sem2
-
 For compiling with ncureses use below command:
-```bash
 gcc dvalgo.c -o dvalog -lncurses
-```
 
 useful functions:
-```C
 endwin();
 alaram
 signal
-```
 
 This is just an example, to help you.
 
-### Commands to see the demo
-```bash
+# Commands to see the demo
 cd example
 ./dvalgo 1 10
 ./dvalgo 2 10 (in seperate terminal)
@@ -27,9 +20,9 @@ cd example
 ./dvalgo 8 10 (in seperate terminal)
 ./dvalgo 9 10 (in seperate terminal)
 ./dvalgo 10 10 (in seperate terminal)
-```
 
-### Folder Structure.
+
+# Folder Structure.
 ```
 |-- example
 |   |-- dvalgo
